@@ -1,0 +1,97 @@
+id,course,professor,rating,difficulty,num_of_rating,spring21,summer21,fall21
+1,CSE 101LLB - Computers A General Intro,Winikus,2,3.7,64,Y,,
+2,CSE 111LLB - Intro To Quantitative Analysis,Winikus,2,3.7,64,Y,,
+3,CSE 111LLB - Intro To Quantitative Analysis,Hughes,2.5,4.2,114,Y,,
+77,CSE 111LLB - Intro To Quantitative Analysis,Schindler,3.5,3.6,131,,,Y
+4,CSE 115LLR - Computer Science I,Hertz,3.6,3.2,59,Y,,Y
+5,CSE 115LLR - Computer Science I,Alphonce,3.3,3.5,267,Y,,Y
+87,CSE 115LLR - Computer Science I,Mackay,3.3,3.3,19,,Y,
+6,CSE 116LLB - Computer Science Ii,Hartloff,2.7,4.2,133,Y,,Y
+7,CSE 116LLB - Computer Science Ii,Akhter,1.5,4,4,Y,,
+88,CSE 116LLB - Computer Science Ii,Baccarini,0,0,0,,Y,
+8,CSE 191LR - Intro Discrete Structures,Akhter,1.5,4,4,Y,Y,
+9,CSE 191LR - Intro Discrete Structures,Knepley,1.4,4.4,33,Y,,
+10,CSE 191LR - Intro Discrete Structures,Meng,2.4,3.6,17,Y,,
+78,CSE 191LR - Intro Discrete Structures,Hughes,2.5,4.2,114,,,Y
+51,"CSE 199SR - Ub Seminar-Internet, Computing, & Society",Meng    * Hunt    * Joseph    * Blanton    * Akhter    * Ghanei    * Doermann,0,0,0,,,Y
+11,CSE 220LLB - Systems Programming,Blanton,3.9,4,30,Y,,Y
+12,CSE 241LLB - Digital Systems,Winikus,2,3.7,64,Y,Y,
+13,CSE 250LR - Data Structures,Hughes,2.5,4.2,114,Y,,Y
+89,CSE 250LR - Data Structures,Liu,4.4,2.3,21,,Y,
+14,CSE 305LR - Programming Languages,Ziarek,4.4,3.1,26,Y,Y,
+15,CSE 306LLB - Software Quality In Practice,Alphonce,3.3,3.5,267,Y,,
+16,CSE 312LR - Web Applications,Hartloff,2.7,4.2,133,Y,,Y
+52,CSE 321LR - Realtime Embed Systems,Winikus,2,3.7,64,,,Y
+17,CSE 331LR - Algo And Complexity,Sariyuce,4,4.5,4,Y,,
+53,CSE 331LR - Algo And Complexity,Rudra,3.5,4.5,26,,,Y
+90,CSE 331LR - Algo And Complexity,Murphy,4.5,1.3,3,,Y,
+18,CSE 341LR - Computer Organization,Ghanei,3.2,3.9,41,Y,,
+79,CSE 341LR - Computer Organization,Winikus,2,3.7,64,,,Y
+80,CSE 341LR - Computer Organization,Xu,2.4,3.3,76,,,Y
+91,CSE 341LR - Computer Organization,Schindler,3.5,3.6,131,,Y,
+54,CSE 365LR - Computer Security,Hunt,4.7,2.9,17,,,Y
+55,CSE 368LR - Artificial Intelligence,Das Bhattacharjee,3.2,3.6,26,,,Y
+92,CSE 368LR - Artificial Intelligence,Vereshchaka,2.6,4.4,9,,Y,
+19,CSE 370LR - Applied Hci,Hunt,4.7,2.9,17,Y,,
+20,CSE 379LLB - Intro To Microproccessors,Schindler,3.5,3.6,131,Y,Y,
+21,CSE 396LR - Intro Theory Of Computatn,Regan,2.2,4.2,80,Y,,
+93,CSE 396LR - Intro Theory Of Computatn,Murphy,4.5,1.3,3,,Y,
+22,CSE 404LR - Software Project Management,Hunt,4.7,2.9,17,Y,,
+81,CSE 404LR - Software Project Management,Hertz,3.6,3.2,59,,,Y
+23,CSE 410LEC - Special Topics-Advanced Blockchain Concepts,Ramamurthy,3,2.8,95,Y,,
+28,CSE 410LEC - Special Topics-Computational Investment 2,Liu,4.4,2.3,21,Y,,
+57,CSE 410LEC - Special Topics-Computer Graphics,Meng,2.4,3.6,17,,,Y
+24,CSE 410LEC - Special Topics-Computer Security,Blanton,3.9,4,30,Y,,
+95,CSE 410LEC - Special Topics-Hardware Security And Trust,Kwiat,0,0,0,,Y,
+56,CSE 410LEC - Special Topics-Intro To Deep Learning,Chen,3.3,3.7,20,,,Y
+26,CSE 410LEC - Special Topics-Introduction To Matlab,Miller,4.6,3.2,77,Y,,
+27,CSE 410LEC - Special Topics-Iot And Cybersecurity,Xu,2.4,3.3,76,Y,,Y
+25,CSE 410LEC - Special Topics-Machine Learning And Society,Joseph,3.1,3.4,46,Y,,
+94,CSE 410LEC - Special Topics-Malware Analysis,Del Vecchio,0,0,0,,Y,
+59,CSE 410LEC - Special Topics-Software Security,Zhao,2.6,1.4,8,,,Y
+58,CSE 410LEC - Special Topics-Software Testing,Wang,3.5,2.6,11,,,Y
+60,CSE 411LEC - Intr To Cs Administration,Smith,4.6,2.1,22,,,Y
+29,CSE 421LEC - Operating Systems,Ghanei,3.2,3.9,41,Y,Y,Y
+61,CSE 426LEC - Blockchainapp,Ramamurthy,3,2.8,95,,,Y
+62,CSE 428LEC - Digital Image Processing,Ratha,0,0,0,,,Y
+63,CSE 429LEC - Algs For Modern Compute System,Miller,4.6,3.2,77,,,Y
+30,CSE 431LEC - Algorithms Anal & Dsgn 1,Li,2.1,3.2,36,Y,,
+64,CSE 431LEC - Algorithms Anal & Dsgn 1,He,2.8,3.5,39,,,Y
+31,CSE 432LEC - Randomized Algorithms,Hughes,2.5,4.2,114,Y,,
+65,CSE 435LEC - Information Retrieval,Srihari,2.1,3.5,39,,,Y
+32,CSE 442LR - Software Eng Concepts,Hertz,3.6,3.2,59,Y,Y,
+82,CSE 442LR - Software Eng Concepts,Hartloff,2.7,4.2,133,,,Y
+33,CSE 443LEC - Compilers,Alphonce,3.3,3.5,267,Y,,
+34,CSE 446LEC - Reinforcement Learning,Vereshchaka,2.6,4.4,9,Y,,Y
+66,CSE 450LEC - Hardware/software Integrated S,Schindler,3.5,3.6,131,,,Y
+35,CSE 453LEC - Hardware/software Integrated,Schindler,3.5,3.6,131,Y,,
+67,CSE 454LEC - Ci For Cen,Winikus,2,3.7,64,,,Y
+36,CSE 455LEC - Intro To Pattern Recognition,Dong,1.9,4,3,Y,,
+83,CSE 455LEC - Intro To Pattern Recognition,Das Bhattacharjee,3.2,3.6,26,,,Y
+37,CSE 460LEC - Data Models And Query Language,Das Bhattacharjee,3.2,3.6,26,Y,,Y
+38,CSE 462LEC - Database Systems,Kennedy,3.5,4,17,Y,,
+39,CSE 467LEC - Computational Linguistics,Chaves,4.3,2.4,16,Y,,
+68,CSE 467LEC - Computational Linguistics,Jacobs,4.5,3.2,6,,,Y
+40,CSE 468LEC - Robotics Algorithms,Ghanei,3.2,3.9,41,Y,,
+69,CSE 468LEC - Robotics Algorithms,Dantu,2.1,4.6,7,,,Y
+70,CSE 469LEC - Introduction To Data Mining,Akhter,1.5,4,4,,,Y
+71,CSE 470LEC - Intro Pdp,Zola,3.3,4.2,26,,,Y
+41,CSE 473LEC - Comp Vision & Image Proc,Doermann,5,3,1,Y,,
+72,CSE 473LEC - Comp Vision & Image Proc,Yuan,1.8,3.5,50,,,Y
+42,CSE 474LEC - Intro Machine Learning,Chandola,4.6,2.5,23,Y,,
+73,CSE 474LEC - Intro Machine Learning,Gao,3.8,2.6,9,,,Y
+84,CSE 474LEC - Intro Machine Learning,Srihari,2.1,3.5,39,,,Y
+96,CSE 474LEC - Intro Machine Learning,Chauhan,0,0,0,,Y,
+74,CSE 478LEC - Computational Investment I,Liu,4.4,2.3,21,,,Y
+43,CSE 486LEC - Distributed Systems,Blanton,3.9,4,30,Y,,
+85,CSE 486LEC - Distributed Systems,Ramamurthy,3,2.8,95,,,Y
+44,CSE 487LEC - Data Intensive Computing,Ramamurthy,3,2.8,95,Y,,
+45,CSE 489LEC - Modern Network Concepts,Mi,2.2,3.9,9,Y,,
+75,CSE 489LEC - Modern Network Concepts,Hu,2.9,3.4,13,,,Y
+46,CSE 490LEC - Computer Architecture,Sridhar,2,3.5,27,Y,,
+76,CSE 491LEC - Intro Theory Of Computation,Regan,2.2,4.2,80,,,Y
+47,CSE 492TUT - Undergrad Peer Mentoring,Hunt,4.7,2.9,17,Y,,Y
+48,CSE 493LLB - Intro Vlsi Electronics,Sridhar,2,3.5,27,Y,,Y
+49,CSE 496TUT - Internship/practicum,Kennedy,3.5,4,17,Y,Y,Y
+50,CSE 497TUT - Dept Honors Thesis,Hughes,2.5,4.2,114,Y,,
+86,CSE 497TUT - Dept Honors Thesis,Joseph,3.1,3.4,46,,,Y
